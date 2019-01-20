@@ -1,3 +1,3 @@
 # hakyll_netlify
 
-Docker image for Hakyll
+Docker image to deploy a Hakyll site to Netlify.
