@@ -1,4 +1,4 @@
-FROM fpco/stack-build:lts-12.26
+FROM fpco/stack-build:lts-16.31
 
 RUN npm cache clean                          && \
     npm install n -g                         && \
